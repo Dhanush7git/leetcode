@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhanush7git/leetcode/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhanush7git/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -12,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhanush7git/leetcode/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhanush7git/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhanush7git/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Dhanush7git/leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
